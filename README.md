@@ -1,7 +1,5 @@
 # snowpack-plugin-glslify
 
-[![NPM Package][npm]][npm-url]
-
 [![Build Status](https://travis-ci.org/borisdiakur/snowpack-plugin-glslify.svg?branch=main)](https://travis-ci.org/borisdiakur/snowpack-plugin-glslify)
 [![Coverage Status](https://coveralls.io/repos/borisdiakur/snowpack-plugin-glslify/badge.svg?branch=main)](https://coveralls.io/r/borisdiakur/snowpack-plugin-glslify?branch=main)
 [![npm version](https://badge.fury.io/js/snowpack-plugin-glslify.svg)](http://badge.fury.io/js/snowpack-plugin-glslify)
