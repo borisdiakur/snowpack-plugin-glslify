@@ -49,4 +49,4 @@ If you need more, shoot me a PR.
 
 ## License
 
-Released under the [MIT license](LICENSE).
+Released under the [MIT license](LICENSE.md).
